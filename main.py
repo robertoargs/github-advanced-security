@@ -8,3 +8,7 @@ MY_SECRET = "34e0a8a4514f53e59168e2b9db7f4d6e"
 
 print("This is another example to try Secret Scanning Alerts")
 print("SECRET ===>", MY_SECRET)
+
+ANOTER_SECRET = "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"
+print("This is another example to try Secret Scanning Alerts")
+print("ANOTER_SECRET ===>", ANOTER_SECRET)
